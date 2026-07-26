@@ -1,0 +1,6 @@
+{
+  "name": "Surge 5 Studio",
+  "description": "High-performance proxy profile editor, rule-based routing simulator, module generator, and Surge 5 configuration assistant for iOS and macOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
